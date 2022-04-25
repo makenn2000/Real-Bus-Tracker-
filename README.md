@@ -2,4 +2,4 @@
 Exercise from MIT 
 
 
-This exercise 
+This Exercise was completed from fetching data from a URL, working with the DOM to add Map Markers and Automation.  
